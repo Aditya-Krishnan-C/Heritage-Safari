@@ -106,7 +106,7 @@ class _MonumentFormState extends State<MonumentForm> {
                   }
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.grey[800], // Adjust button color
+                foregroundColor: Colors.grey[800], // Adjust button color
                 ),
                 child: Padding(
                   padding: const EdgeInsets.all(12.0),
